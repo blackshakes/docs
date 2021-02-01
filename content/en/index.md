@@ -4,6 +4,7 @@ description: 'Knowledgebase for Blackshakes'
 position: 0
 category: ''
 features: 
+ - Instructions on how to create Polkadot and Kusama accounts
  - Instructions on how to delegate your stake with our Validator node on Polkadot and Kusama
  - Instructions on how to use our Registrar/identity validation service on Polkadot and Kusama
 ---
