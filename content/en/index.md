@@ -1,13 +1,11 @@
 ---
-title: blackshakes docs
-description: 'Knowledgebase for Blackshakes'
+title: Blackshakes Documentation
+description: 'Instructions on how to create accounts and perform staking operations'
 position: 0
 category: ''
 features: 
- - Instructions on how to create Polkadot and Kusama accounts
- - Instructions on how to delegate your stake with our Validator node on Polkadot and Kusama
- - Instructions on how to use our Registrar/identity validation service on Polkadot and Kusama
+ - Learn how to create accounts on Polkadot/Kusama
+ - Learn how to use a Ledger with Polkadot/Kusama (hardware wallet)
 ---
 
-Instruction manuals for Blackshakes governance and staking services. Use the links
-on the sidebar to navigate.
+Use the links in the sidebar to navigate.
