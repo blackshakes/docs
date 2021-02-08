@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 'The Blackshakes Corporation TOS' 
 position: 4
-category: ''
+category: 'Legal'
 features: 
 ---
 
