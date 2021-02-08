@@ -1,19 +1,9 @@
 ---
 title: Staking
 description: Follow this guide to nominate our validator nodes on Kusama and Polkadot. 
-imgUrl: /blog/staking/main.png
-date: 2020-2-06
-authors:
-  - name: "Michael Freeman"
-    avatarUrl: https://pbs.twimg.com/profile_images/3355527461/1252300276104bd8a74b48e75aed6945_400x400.jpeg
-    link: https://twitter.com/mfreeman451
-tags:
-  - Polkadot
-  - Kusama
-  - Nominating
+position: 2
+category: 'Staking'
 ---
-
-
 
 [TOC]
 

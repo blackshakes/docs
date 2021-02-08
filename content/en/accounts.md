@@ -1,17 +1,8 @@
 ---
 title: Create your Accounts
 description: Learn how to create accounts before you start Staking
-imgUrl: /blog/accounts/main.png
-date: 2020-12-30
-authors:
-  - name: "Michael Freeman"
-    avatarUrl: https://pbs.twimg.com/profile_images/3355527461/1252300276104bd8a74b48e75aed6945_400x400.jpeg
-    link: https://twitter.com/mfreeman451
-tags:
-  - Polkadot
-  - Kusama
-  - Staking
-  - Accounts
+position: 1
+category: 'Accounts'
 ---
 
 ## Let's get started

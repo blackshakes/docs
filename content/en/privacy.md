@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 description: 'The Blackshakes Privacy Policy'
-position: 1
+position: 3 
 category: ''
 features:
 ---
