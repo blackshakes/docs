@@ -5,8 +5,6 @@ position: 2
 category: 'Staking'
 ---
 
-[TOC]
-
 ## How to Nominate
 
 Nominators are one type of participant in the staking subsystem of Polkadot, responsible for appointing their stake to the validators, the second type of participant.
@@ -39,7 +37,11 @@ If you haven't already setup your accounts, follow the instructions in the [Acco
 
 ### Step 2: Nominate a validator
 
-After bonding your tokens
+After bonding your tokens it is time to take action and nominate a validator node. Click on "Nominate" on an account you've bonded and you will be presented with another popup asking you to select a validator. Find the address for the Blackshakes Validator node for Kusama or Polkadot on the [Blackshakes Staking](http://www.blackshakes.net/staking) page.
+
+![setup nominator screenshot](https://wiki.polkadot.network/docs/assets/polkadotjs_setup_nominator2.png)
+
+Select our nominator, confirm the transaction, and you have successfully nominated. Nominations will become active in the next era, approximately 24 hours on Polkadot.
 
 ## Conclusion
 
@@ -49,6 +51,5 @@ You have successfully nominated our [validator node](/staking)
 
 ## Further exploration
 
-Learn how to set an on-chain [identity](/blog/identity)
+[Learn](https://wiki.polkadot.network/docs/en/maintain-guides-how-to-unbond) how to stop nominating and unbond your tokens
 
-Verify your identity with our [Registrar](/blog/registrar) service
